@@ -1,0 +1,7 @@
+export { default as IconKacamataPembesar } from '@/components/icons/IconMagnifyingGlass.vue'
+export { default as Cart } from '@/components/icons/Cart.vue'
+export { default as User } from '@/components/icons/User.vue'
+export { default as IconAll } from '@/components/icons/IconAll.vue'
+export { default as IconStar } from '@/components/icons/IconStar.vue'
+export { default as IconBag } from '@/components/icons/IconBag.vue'
+export { default as IconClock } from '@/components/icons/IconClock.vue'

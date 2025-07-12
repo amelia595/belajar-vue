@@ -1,0 +1,25 @@
+export { default as g1 } from '@/assets/image/gambar1.png'
+export { default as g2 } from '@/assets/image/gambar2.png'
+export { default as g3 } from '@/assets/image/gambar3.png'
+export { default as g4 } from '@/assets/image/gambar4.png'
+export { default as g5 } from '@/assets/image/gambar5.png'
+export { default as logo1 } from '@/assets/image/logo1.png'
+export { default as logo2 } from '@/assets/image/logo2.png'
+export { default as logo3 } from '@/assets/image/logo3.png'
+export { default as logo4 } from '@/assets/image/logo4.png'
+export { default as logo5 } from '@/assets/image/logo5.png'
+
+export { default as logoHeader } from '@/assets/image/Furnique.png'
+
+export { default as g6 } from '@/assets/image/gambar6.png'
+export { default as g7 } from '@/assets/image/gambar7.png'
+export { default as g8 } from '@/assets/image/gambar8.png'
+export { default as g9 } from '@/assets/image/gambar9.png'
+export { default as g10 } from '@/assets/image/gambar10.png'
+export { default as g11 } from '@/assets/image/gambar11.png'
+
+export { default as g12 } from '@/assets/image/gambar12.png'
+export { default as g13 } from '@/assets/image/gambar13.png'
+export { default as g14 } from '@/assets/image/gambar14.png'
+
+export { default as g15 } from '@/assets/image/gambar15.png'
